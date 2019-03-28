@@ -1,0 +1,407 @@
+<resources>
+    <string name="app_name">Planet Mob</string>
+    <string name="date_label_set">Date of Birth</string>
+    <string name="date_view_set"></string>
+    <string name="date_selected"></string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="date_button_set">Date of Birth</string>
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+    <string name="firebase_user_management">Firebase User Management</string>
+    <string name="google_status_fmt">Google User: %s</string>
+    <string name="google_title_text">Google Sign In</string>
+    <string name="server_client_id">726427857335-a9gmbn63qo2dg2klo2jndcrira852mq3.apps.googleusercontent.com</string>
+    <string name="title_activity_bottom__tab">Bottom_Tab</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="article1">The Samsung Galaxy S10 <Plus></Plus> is still the best smartphone available right now.\n
+                        "It's a big phone that's designed for big hands - and it takes the very best of what's on the smartphone market and puts it together in a compelling package that we've loved testing.\n"
+                        "Screen: \nThe Super AMOLED 6.4-inch display has been measured as the very best around, with super colours, great dynamic range and, essentially, the very best viewing experience you can have on a mobile phone.\n"
+                        "Plus, there's a fingerprint scanner embedded in the display.\n"
+                        "Battery life: \nThe battery life on the Galaxy S10 Plus is and improvement over the S9 Plus, thanks to the larger 4,100mAh battery inside. It'll easily reach bedtime with double digits still left in the tank.\n"
+                        "The S10 Plus also offers Samsung's new Wireless PowerShare, allowing you to wirelessly charge other devices on the rear of the handset.\n"
+                        "Camera: \nThe trio of cameras on the Galaxy S10 Plus are among the best on the market, building on the excellent setup on the S9 series by offering more features, shooting modes and overall clarity.\n
+                        "Verdict: \nThe Galaxy S10 Plus is packed full of the best Samsung has to offer, and it comes together to give you the best smartphone experience around right now.\n\n
+    </string>
+    <string name="article2">Google has introduced us to its latest flavour of Android, which will be known as Android Q until the tech giant picks a dessert starting with the said letter. This is a major update for Android from Google’s perspective as it focuses on refining the Pie experience while laying more focus on user privacy and security.\n\n
+                            Native Screen Recorder\n
+                                We’ve been begging Google to give us a screen recording feature for ages, and while the company has worked on in the past, this is the first time you can actually try it out. Yeah, screen recording isn’t enabled by default but Android Q allows you to record your screen simply by flipping the switch on a feature flag in the developer options setting page.\n\n
+                            Seamless Transfer\n
+                                As compared to Android 9 Pie, Google has now made double the number of feature flags available in Android Q and one of them is the super handy ‘seamless transfer’ feature. It adds a musical note icon to the notification of whatever app is playing music. Tapping on this icon opens up a pop-up at the bottom and lets you switch between audio output sources on the fly.\n\n
+                            Force Desktop Mode\n
+                                Move aside, Samsung DeX. Android is finally getting ready to embrace the PC experience life with Android Q and for the first time introduces an option to switch to a ‘desktop mode’ in the developer settings. This means you may soon be able to turn your phone into a PC and enjoy a wholesome experience – free from the tragedy that’s folding phones.\n\n
+                            Freeform Windows\n
+                                 Android first introduced freeform window mode with Nougat back in 2017. It was hidden away and you need adb to use the feature, but Android Q now has a dedicated developer option to enable the same. It works quite well (on the Pixel 3 XL and not the Pixel 2) but you can currently have ‘only’ a single freeform window open on your homescreen. Opening another freeform window closes the one that’s already open and takes its place.\n\n
+                            Dark Mode\n
+                                 One of the most exciting and my favorite features of Android Q is the system-wide dark theme. It’s not enabled by default, nor is there any dedicated option to enable the same in the settings. Any mention of the dark mode has been removed from this Android version because Google wants to boast about on stage at I/O 2019.\n\n
+                             While there a bunch of other interesting feature flags available in the developer options setting menu, like safety hub and dynamic homepage, but it’s just the aforementioned ones that we’ve managed to spot and get working. All of these features are pretty cool, which is the reason I would love for Google to work rigorously and flesh them out.\n\n
+    </string>>
+    <string name="article3">"When you follow tech and smartphones closely the constant onslaught of new, supposedly better models coming out can be numbing. It can also wrongly convince you that you need to upgrade your phone that is six, twelve, or twenty months old. The OnePlus 6T is one such phone.
+It is a very good smartphone but it’s not much of an upgrade from the OnePlus 6 that launched just five months before it. It has the same processor, same basic design, very similar display and comes in two of the same colours. If you own a 6, you do not really need a 6T. And you might not even want one, either.
+But for the rest of the world, for the normal people out there, this is one of the best phones you can buy. It just isn’t, in context, anything new or particularly exciting.
+But maybe that’s just phones today in general.
+
+The OnePlus 6T looks a lot like the OnePlus 6 and we compare them here. But for a moment, let’s pretend the 6 didn’t exist.
+The 6T has a premium glass design and you can have any colour as long as it’s black: Mirror Black (gloss) or Midnight Black (matte). It’s gently curved on the back and is a comfortable weight to hold, though the curve coupled with the tiniest of camera bumps means it does rock when used flat on a table. For additional protection, see our round up of the best cases for the OnePlus 6T.
+It has a dew-drop shaped notch at the top of its large 6.41in display that houses a camera while the speaker is a slit right on the top edge of the phone. We had to adjust how we hold the phone for calls to line it up to our ears properly but this is an issue with many notched phones that don’t house the speaker in a top bezel.
+The back panel houses dual cameras and the OnePlus logo while the antenna lines are hidden in the aluminium frame.
+What the OnePlus 6T definitely has going for it (like all previous OnePlus phones) is its high-end specs for a fair price. It has a Snapdragon 845 processor and 6 or 8GB RAM depending on the model you choose.
+OnePlus gives you the option of 6GB RAM with 128GB non-expandable storage to hit the lowest price of £499. To totally future-proof your purchase you can also go for 8GB RAM with 128 or 256GB storage.
+We tested the 8GB RAM/128GB storage model, but all versions will give practically the same performance. You only need 8GB RAM if you intend to indulge in high level gaming or absolutely cane your phone all day long with tens of demanding apps.
+
+OnePlus’ OxygenOS skin over Android 9 Pie is very accomplished and probably our favourite Android version along with Google’s on the Pixel 3.
+The OnePlus 6T is the best OnePlus phone yet along with the now-defunct OnePlus 6. It's the first OnePlus phone without a headphone jack, but it is also the one with the best battery life, speaker, display and cameras.
+Compared to the rest of the market the cheapest model is still very competitive and this is a no-brainer purchase if you are looking to buy outright. Performance is as fast as the Pixel 3 and the flavour of Android is one we might even prefer to Google's own.
+If you really want a headphone jack, waterproofing and wireless charging you'll look elsewhere but we are able to look past all three omissions (ones that are shared with many other phones that cost more) and can recommend the OnePlus 6T to anyone looking for a well-priced, flagship spec Android phone.
+"
+    </string>
+    <string name="article4">We’ve always loved the Moto G series. It has long represented true smartphone value, and still does in an age where the high end now tops out at over £1,000 or $1,000. Yikes.
+                            Much more reasonable is the £239 / $299 Moto G7. The flagship device of a four-phone G7 line up that all have notches (G7 Play, G7 Power and G7 Plus are the others), it promises better cameras and more new features besides.
+                            It’s the best Moto G phone ever and represents true value with hardly any compromise in the low end phone market. It’s giving OnePlus a run for its money now.
+
+                            More so than ever this G series phone proves you can spend half or even a quarter of the best smartphones and still get absolutely everything you could want, even if it is at slightly lower quality (screen, processor, build quality).
+                            But it’s hard not to be bowled away with how good the G7 is. Our first impression of the display was incredulity at how great it looks for the price. It’s a 19:9 6.2in Full HD+ LCD screen and wouldn’t look out of place on a phone that cost tons more.
+                            You don’t get an OLED display for the asking price, but the LCD has good, if slightly soft, colour reproduction and is pin sharp to our eyes.
+                            The G7 gets 4GB RAM and 64GB storage which is the same as the Google Pixel 3, a phone that costs at least £400 more.
+                            There’s a teardrop notch at the top of the screen for the 8Mp camera with dual 12Mp + 5Mp sensors on the back. The rear cameras still don’t have optical image stabilisation (OIS) but this can be got for £30 more on the G7 Plus in the UK, but it’s mystifyingly not available in the States.
+
+                            Moto has a winner with the G7. While the company’s more expensive phones tend to not justify their higher prices, the G series is a bastion of smartphone consistency and the G7 is the best Moto G yet.
+                            With better cameras, a fine display and an efficient but not underpowered processor we think the G7 could be one of the phones of the year, not just one of the best mid-range phones.
+                            It’s just a shame that it won’t get many column inches in comparison to phones that cost four times as much. Spoiler: those phones don’t do an awful lot more useful than the G7 does for £239 / $299.
+
+    </string>
+    <string name="article5">Even though Huawei keeps making excellent premium smartphones, the company as a whole is in a bit of a corporate nightmare. With a full US ban on sales of its phones (although you can import them), the furore surrounding the company might make you want to steer clear despite the current lack of evidence that its network equipment is a back door to your data.
+                            Placing the uncertainty to one side for a phone review is what we’ll do here though as Huawei’s smartphone division is firing on all cylinders. The Mate 20 X is a huge smartphone that sits alongside the Mate 20 Pro and Huawei Mate 20 as a premium, well-built device in a range that offers three phones depending on your taste.
+                            The Mate 20 X is as good as the other two Mate 20 phones and is a rare case of being one of three phones in the same series that genuinely offer three different experiences. Huawei pushes the X as a gaming phone, but really it isn’t that specialist.
+                            It is enormous, though.
+
+                            The Mate 20 X is a veritable surfboard with a trouser-busting 18.7:9 7.2in OLED display that looks sensational but is capped at 1080p FHD+ resolution compared to the 1440p 2K of the Mate 20 Pro. You can granularly control the colour mode and temperature and ‘hide’ the notch in the settings.
+                            You’ll get better screen clarity and brightness from the Galaxy S10 Plus but the Mate 20 X holds its own with with good colour reproduction and viewing angles, plus the lower resolution paired with the enormous 5,000mAh cell means battery life is truly exceptional.
+                            The phone fits in the front pocket of most deep male jean pockets but will likely jut out the top of women’s such is its size (174.6 x 85.4 x 8.2mm). It’s heavy at 232g and we sometimes found it a tad top heavy and tipping forward while typing if we didn’t cradle it with both hands. A one handed phone this is not.
+                            The build quality is Apple-esque in its finish and is representative of Huawei’s immense design leap forward in the past year. Our purple review unit (there’s also a blue model) has a metal rim with glass back despite not having wireless charging. That back is laser etched all over with a crosshatch pattern that hides fingerprints, improves grip and frankly just looks great.
+                            Another fine reason to go for the Mate 20 X is its astonishing battery life. Granted, this isn’t as clever as refining software or excellent power management. This is simply a huge 5000mAh battery with a screen capped at 1080p. It lasted for 10 hours and 48 minutes ages in our battery test (the fourth best time ever at the time of writing in March 2019) and in day to day use we rarely got to bedtime without at least 40% left in the tank.
+                            The supplied 22W fast charger is not as fast as the Mate 20 Pro’s 40W but still tops up at a very quick rate. We didn’t get caught short with the amazing battery life here, and neither will you.
+
+                            If you want a premium flagship smartphone with the largest screen possible then this is it. With practically the same specs as the Mate 20 Pro including the same excellent cameras, the Mate 20 X is a curious smartphone that we enjoyed using far more than we expected given the size.
+                            Performance is flawless in 2019 and the winning combination of large battery and 1080p display is attractive. If you want a smaller phone then you have many other options but the Mate 20 X is flying the flag for screen real estate with build quality that is right out the top drawer.
+                            It doesn’t have full waterproofing or wireless charging but with a proper fingerprint sensor and a headphone jack, we are sold.
+
+    </string>
+    <string name="phone1">ONEPLUS 6T
+    </string>
+    <string name="phone2">GOOGLE PIXEL 3
+    </string>
+    <string name="phone3">SAMSUNG S10 E
+    </string>
+    <string name="phone4">HUAWEI MATE 20 PRO
+    </string>
+    <string name="phone5">SAMSUNG GALAXY NOTE 9
+    </string>
+    <string name="pd1">
+        Specs:
+        \nColours:\nMirror Black or Midnight Black
+        \nOperating System:\n Oxygen OS based on Android™ Pie
+        \nCPU:\n Qualcomm® Snapdragon™ 845 (Octa-core, 10nm, up to 2.8 GHz), within AIE
+        \nGPU:\n Adreno 630
+        \nRAM:\n 6 GB / 8 GB / 10 GB LPDDR4X
+        \nStorage:\n 128 GB / 256 GB UFS 2.1 2-LANE
+        \nSensors:\n In-display Fingerprint Sensor, Hall, Accelerometer, Gyroscope, Proximity, RGB Ambient Light Sensor, Electronic Compass, Sensor Core
+        \nPorts:\n USB 2.0, Type-C, Support standard USB Type-C Earphone,
+        \nExpansion:\n Dual Nano SIM Slot
+        \nBattery:\n 3700 mAh (non-removable) Fast Charging (5V 4A)
+        \nUnlock Options:\n In-display Fingerprint Sensor; Face Unlock
+        \nDisplay:\n 6.41 inches
+        \nResolution:\n 2340 x 1080 pixels 402 ppi
+        \nAspect Ratio:\n19.5:9
+        \nType:\n Optic AMOLED (Support sRGB, DCI-P3)
+        \nCover Glass:\n2.5D Corning® Gorilla® Glass 6
+        \nCamera:\n Rear Camera - Main
+        \nSensor:\n Sony IMX 519;Megapixels: 16
+        \nRear Camera - Secondary
+        \nSensor:\n Sony IMX 376K; Megapixels: 20
+        \nFlash:\n Dual LED Flash
+        \nVideo:\n4K resolution video at 30/60 fps
+        \nFront Camera
+        \nSensor:\n Sony IMX 371; Megapixels: 16
+        \nVideo:\n 1080P resolution video at 30 fps
+        \nNotch:\n Drop Notch
+    </string>>
+    <string name="pd2">
+        Specs:\n
+        \nColours:
+        \nClearly White/ Just Black/ Not Pink
+        \nOperating System:
+        \nLatest Android 9 Pie
+        \nCPU:
+        \nQualcomm® Snapdragon™ 845 ( 2.5 Ghz + 1.6 Ghz, 64-Bit Octa-Core)
+        \nGPU:
+        \nAdreno 630
+        \nRAM:
+        \n4 GB LPDDR4x RAM
+        \nStorage:
+        \n64 GB or 128 GB storage
+        \nSensors:
+        \nActive Edge, Back-mounted Pixel Imprint™ fingerprint sensor for fast unlocking, Proximity/Ambient light sensor, Accelerometer/Gyrometer, Magnetometer, Barometer, Android Sensor Hub, Advanced x-axis haptics for sharper/defined response
+        \nPorts:
+        \nUSB Type-C™ 3.1 Gen 1
+        \nExpansion:
+        \nSingle nano SIM
+        \nBattery:
+        \n2915 mAH battery (18 W fast charging)
+        \nUnlock Options:
+        \nFingerprint Sensor; Face Unlock
+        \nDisplay:
+        \nFullscreen 5.5” display
+        \nResolution:443 ppi
+        \nAspect Ratio:\n 18:9
+        \nType: \nFHD+ flexible OLED
+        \nCover Glass:\n2.5D Corning® Gorilla® Glass 6
+        \nCamera:
+        \nRear camera:
+        \n12.2 MP dual-pixel Autofocus + dual pixel phase detection
+        \nVideo:4K resolution video at 30/60 fps
+        \nDual front cameras
+        \n8 MP wide-angle and telephoto cameras
+        \nWide-angle:\n f/2.2 aperture
+        \nVideo:\n1080P resolution video at 30 fps
+        \nNotch:
+        \nNo Notch
+    </string>>
+    <string name="pd3">
+        \nSpecs:
+        \nColours:
+        \nWhite / Black
+        \nOperating System:
+        \nAndroid 9.0 (Pie); One UI
+        \nCPU:
+        \nOcta-core (2x2.7 GHz Mongoose M4 and 2x2.3 GHz Cortex-A75 and 4x1.9 GHz Cortex-A55)
+        \nGPU:
+        \nAdreno 640
+        \nRAM:
+        \n6 GB / 8 GB RAM
+        \nStorage:
+        \n128 GB / 256 GB
+        \nSensors:
+        \nFingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer
+        \nPorts:
+        \nUSB-C(3.1 Gen 1), 3.5mm jack
+        \nExpansion:
+        \nHybrid Dual SIM (Nano-SIM, dual stand-by)
+        \nBattery:
+        \nNon-removable Li-Ion 3100 mAh battery
+        \nCharging:
+        \nFast battery charging 15W Fast wireless charging 15W
+        \nUnlock Options:
+        \nFingerprint Sensor; Face Unlock
+        \nDisplay:
+        \nType	Dynamic AMOLED capacitive touchscreen, 16M colors
+        \nSize:
+        \n5.8 inches, 82.8 cm2 (~83.3% screen-to-body ratio)
+        \nResolution:
+        \n1080 x 2280 pixels, 19:9 ratio (~438 ppi density)
+        \nProtection:
+        \nCorning Gorilla Glass 5
+        \nCamera:
+        \nMAIN CAMERA:
+        \nDual	12 MP, f/1.5-2.4, 26mm (wide), 1/2.55", 1.4µm, Dual Pixel,PDAF, OIS 16 MP, f/2.2, 12mm (ultrawide)
+        \nFeatures:
+        \nLED flash, auto-HDR, panorama
+        \nVideo:	2160p@60fps
+        \nSELFIE CAMERA:
+        \nSingle	10 MP, f/1.9, 26mm (wide), Dual Pixel PDAF
+        \nFeatures:	Dual video call, Auto-HDR
+        \nVideo:	2160p@30fps
+        \nNotch:\nNotch Display
+
+    </string>>
+    <string name="pd4">
+        Specs:
+        \nColours:
+        \nEmerald Green, Midnight Blue, Pink Gold, Twilight, Black
+        \nOperating System:
+        \nAndroid 9.0 (Pie); EMUI 9
+        \nCPU:
+        \nOcta-core (2x2.6 GHz Cortex-A76 and 2x1.92 GHz Cortex-A76 and 4x1.8 GHz Cortex-A55)
+        \nGPU:
+        \nMali-G76 MP10
+        \nRAM:
+        \n6 GB / 8 GB
+        \nStorage:
+        \n128 GB / 256 GB
+        \nSensors:
+        \nFace ID, fingerprint (under display), accelerometer, gyro, proximity, barometer, compass
+        \nPorts:
+        \nUSB-C(3.1 Gen 1)
+        \nExpansion:
+        \nSingle nano SIM
+        \nBattery:
+        \nNon-removable Li-Po 4200 mAh battery
+        \nCharging:
+        \nFast battery charging 40W (70% in 30 min) Fast wireless charging 15W
+        \nUnlock Options:
+        \nFingerprint Sensor, Face unlock
+        \nDisplay:
+        \nType:
+        \nAMOLED capacitive touchscreen, 16M colors
+        \nSize:
+        \n6.39 inches, 100.2 cm2 (~87.9% screen-to-body ratio)
+        \nResolution:
+        \n1440 x 3120 pixels, 19.5:9 ratio (~538 ppi density)
+        \nProtection:
+        \nCorning Gorilla Glass 5
+        \nCamera:
+        \nRear camera:
+        \n40-megapixel (f/1.8) + 20-megapixel (f/2.2) + 8-megapixel (f/2.4)
+        \nRear flash: Yes
+        \nFront camera:
+        \n24-megapixel (f/2.0)
+        \nNotch:
+        \nNotch Display
+
+    </string>>
+    <string name="pd5">
+        Specs:
+        \nColours:
+        \nOcean Blue; Lavender Purple; Cloud Silver; Midnight Black
+        \nOperating System:
+        \nAndroid 8.1 (Oreo)
+        \nCPU:
+        \nQualcomm Snapdragon 845 octa-core chipset
+        \nGPU:
+        \nAdreno 630
+        \nRAM:
+        \n6GB RAM/8GB RAM
+        \nStorage:
+        \n128 GB / 512GB
+        \nSensors:
+        \nIris sensor, Pressure sensor, Accelerometer, Barometer, Fingerprint sensor, Gyro sensor, Geomagnetic sensor, Hall sensor
+        \nPorts:
+        \nUSB 2.0, Type-C, Support standard USB,3.5mmaudio jack
+        \nExpansion:
+        \nOne Nano SIM and one MicroSD slot
+        \nBattery:
+        \n4000mAh(Fast Charging compatible on wired and wireless)
+        \nUnlock Options:
+        \nLock type: pattern, PIN, password
+        \nBiometrics lock type: iris scanner, fingerprint scanner, face recognition
+        \nIntelligent Scan: Combines iris scan and face recognition for convenient unlocking and in some cases provides enhanced security for certain authentication services.
+        \nDisplay:
+        \n6.4" Quad HD+ Super AMOLED (2960x1440) 516 ppi
+        \nCamera:
+        \nRear Camera - Main:
+        \nSuper Speed Dual Pixel 12MP AF sensor
+        \nSensor size: 1/2.55"
+        \nRear Camera - Secondary:
+        \n2MP AF sensor
+        \nSensor size: 1/3.4
+        \nFlash: Dual LED Flash
+        \nVideo:4K resolution video at 30/60 fps
+        \nFront Camera:
+        \n8MP AF sensor
+        \nSensor size: 1/3.6"
+        \nPixel size: 1.22µm
+        \nSensor ratio: 4:3
+        \nNotch:
+        \nNo Notch
+    </string>>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Your_Cart_is_Empty">Your Cart is Empty</string>
+    <string name="No_new_Updates">No new Updates</string>
+    <string name="title_activity_phone__specs">Phone_Specs</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+</resources>
+
+

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".Setting">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/imageView21"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="0dp"
+            android:background="@drawable/theme" />
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="175dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/poppins_regular"
+            android:text="DARK THEME"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textCursorDrawable="@null"
+            android:textSize="25dp" />
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="0dp"
+            android:background="@color/black" />
+
+        <ToggleButton
+            android:id="@+id/toggleButton"
+            android:layout_width="175dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:backgroundTint="@color/white"
+            android:buttonTint="@color/white"
+            android:fontFamily="@font/poppins_regular"
+            android:text="THEME"
+            android:textColor="@color/black"
+            android:textCursorDrawable="@null"
+            android:textSize="25dp" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="351.5dp"
+        android:layout_height="1.5dp"
+        android:layout_gravity="right"
+        android:layout_marginTop="0dp"
+        android:layout_marginBottom="0dp"
+        android:background="@color/black" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/imageView12"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="0dp"
+            app:srcCompat="@drawable/account" />
+
+        <Button
+            android:id="@+id/setting_button1"
+            style="@style/Animation.AppCompat.Tooltip"
+            android:layout_width="351.5dp"
+            android:layout_height="60dp"
+            android:layout_gravity="right"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="0dp"
+            android:backgroundTint="@color/white"
+            android:buttonTint="@color/white"
+            android:fontFamily="@font/poppins_regular"
+            android:text="premium user"
+            android:textColor="@color/black"
+            android:textCursorDrawable="@null"
+            android:textSize="25dp" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="351.5dp"
+        android:layout_height="1.5dp"
+        android:layout_gravity="right"
+        android:layout_marginTop="0dp"
+        android:layout_marginBottom="0dp"
+        android:background="@color/black" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/imageView11"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="0dp"
+            app:srcCompat="@drawable/notifications" />
+
+        <Button
+            android:id="@+id/setting_button3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/white"
+            android:buttonTint="@color/white"
+            android:fontFamily="@font/poppins_regular"
+            android:text="NOTIFICATIONS"
+            android:textColor="@color/black"
+            android:textCursorDrawable="@null"
+            android:textSize="25dp" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="351.5dp"
+        android:layout_height="1.5dp"
+        android:layout_gravity="right"
+        android:layout_marginTop="0dp"
+        android:layout_marginBottom="0dp"
+        android:background="@color/black" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/imageView31"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="0dp"
+            app:srcCompat="@drawable/service" />
+
+        <Button
+            android:id="@+id/setting_button6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/white"
+            android:buttonTint="@color/white"
+            android:fontFamily="@font/poppins_regular"
+            android:text="Share App"
+            android:textColor="@color/black"
+            android:textCursorDrawable="@null"
+            android:textSize="25dp" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="351.5dp"
+        android:layout_height="1.5dp"
+        android:layout_gravity="right"
+        android:layout_marginTop="0dp"
+        android:layout_marginBottom="0dp"
+        android:background="@color/black" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/imageView41"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="0dp"
+            app:srcCompat="@drawable/about" />
+
+        <Button
+            android:id="@+id/setting_button8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/white"
+            android:buttonTint="@color/white"
+            android:fontFamily="@font/poppins_regular"
+            android:text="about us"
+            android:textColor="@color/black"
+            android:textCursorDrawable="@null"
+            android:textSize="25dp" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="351.5dp"
+        android:layout_height="1.5dp"
+        android:layout_gravity="right"
+        android:layout_marginTop="0dp"
+        android:layout_marginBottom="0dp"
+        android:background="@color/black" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/imageView51"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="0dp"
+            android:scaleType="fitCenter"
+            app:srcCompat="@drawable/sign_out" />
+
+        <Button
+            android:id="@+id/setting_button4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/white"
+            android:buttonTint="@color/white"
+            android:fontFamily="@font/poppins_regular"
+            android:text="log out"
+            android:textColor="@color/black"
+            android:textCursorDrawable="@null"
+            android:textSize="25dp" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="351.5dp"
+        android:layout_height="1.5dp"
+        android:layout_gravity="right"
+        android:layout_marginTop="0dp"
+        android:layout_marginBottom="0dp"
+        android:background="@color/black" />
+
+</LinearLayout>
+</FrameLayout>

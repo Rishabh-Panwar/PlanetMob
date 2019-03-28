@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="1120dp"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    tools:context=".Articles">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <android.support.v7.widget.CardView
+                android:layout_width="372dp"
+                android:layout_height="200dp"
+                android:layout_marginTop="20dp"
+                card_view:cardElevation="2dp"
+                card_view:cardCornerRadius="5dp"
+                android:layout_marginLeft="20dp">
+
+                <ImageButton
+                    android:layout_width="match_parent"
+                    android:id="@+id/image1"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/article_1"
+                    android:scaleType="centerCrop"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:textSize="20dp"
+                    android:gravity="center"
+                    android:textColor="@color/white"
+                    android:layout_gravity="bottom"
+                    android:fontFamily="@font/poppins_bold"
+                    android:text="SAMSUNG GALAXY S10+ REVIEW"/>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="372dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="240dp"
+                card_view:cardCornerRadius="5dp"
+                card_view:cardElevation="2dp">
+
+                <ImageButton
+                    android:layout_width="match_parent"
+                    android:id="@+id/image2"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/article_2"
+                    android:scaleType="centerCrop"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:textSize="20dp"
+                    android:gravity="center"
+                    android:textColor="@color/white"
+                    android:layout_gravity="bottom"
+                    android:fontFamily="@font/poppins_bold"
+                    android:text="NEW FEATURES IN ANDROID Q"/>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="372dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="460dp"
+                card_view:cardCornerRadius="5dp"
+                card_view:cardElevation="2dp">
+                <ImageButton
+                    android:layout_width="match_parent"
+                    android:id="@+id/image3"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/article_3"
+                    android:scaleType="centerCrop"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:textSize="20dp"
+                    android:gravity="center"
+                    android:textColor="@color/white"
+                    android:layout_gravity="bottom"
+                    android:fontFamily="@font/poppins_bold"
+                    android:text="XIAOMI MI9 REVIEW"/>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="372dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="680dp"
+                card_view:cardCornerRadius="5dp"
+                card_view:cardElevation="2dp">
+                <ImageButton
+                    android:layout_width="match_parent"
+                    android:id="@+id/image4"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/article_4"
+                    android:scaleType="centerCrop"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:textSize="20dp"
+                    android:gravity="center"
+                    android:textColor="@color/white"
+                    android:layout_gravity="bottom"
+                    android:fontFamily="@font/poppins_bold"
+                    android:text="MOTO G7 REVIEW"/>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="372dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="900dp"
+                android:layout_marginBottom="20dp"
+                card_view:cardCornerRadius="5dp"
+                card_view:cardElevation="2dp">
+                <ImageButton
+                    android:layout_width="match_parent"
+                    android:id="@+id/image5"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/article_5"
+                    android:scaleType="centerCrop"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:textSize="20dp"
+                    android:gravity="center"
+                    android:textColor="@color/white"
+                    android:layout_gravity="bottom"
+                    android:fontFamily="@font/poppins_bold"
+                    android:text="HUAWEI MATE 20X REVIEW"/>
+
+
+            </android.support.v7.widget.CardView>
+        </RelativeLayout>
+</ScrollView>

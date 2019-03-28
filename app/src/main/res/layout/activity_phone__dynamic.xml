@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".Phone_Dynamic">
+
+    <FrameLayout
+        android:id="@+id/content_frame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_gravity="top"
+            android:layout_marginTop="0dp"
+            android:background="@drawable/grad_title"
+            android:orientation="vertical"
+            tools:ignore="MissingConstraints" />
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="20.5dp"
+            android:layout_marginTop="30dp"
+            app:srcCompat="@drawable/pm_logo2" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="131dp"
+            android:layout_marginTop="30dp"
+            app:srcCompat="@drawable/pm_logo" />
+
+        <ImageButton
+            android:id="@+id/imagebutton6"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="341.5dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/notifications_512_off"
+            android:onClick="buttonClick6"
+            android:scaleType="fitCenter" />
+
+        <ScrollView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="80dp"
+            android:layout_marginBottom="70dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                    <ImageView
+                        android:id="@+id/image1"
+                        android:layout_width="372dp"
+                        android:layout_height="372dp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="20dp"/>
+
+                <TextView
+                    android:id="@+id/name1"
+                    style="@style/Light"
+                    android:layout_width="372dp"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="412dp"
+                    android:gravity="center"
+                    android:textSize="30dp" />
+
+
+                <TextView
+                    android:id="@+id/phonedesc"
+                    android:layout_width="352dp"
+                    style="@style/Light"
+                    android:layout_height="56dp"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginTop="482dp"/>
+
+            </RelativeLayout>
+        </ScrollView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="0dp"
+            android:backgroundTint="@color/white">
+
+            <LinearLayout
+                android:layout_width="375dp"
+                android:layout_height="70dp"
+                android:layout_gravity="bottom"
+                android:layout_marginLeft="19dp"
+                android:weightSum="5">
+
+                <Button
+                    android:id="@+id/imageButton3"
+                    android:layout_width="0dp"
+                    android:layout_height="60dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="2"
+                    android:background="@drawable/rounded_button"
+                    android:elevation="5dp"
+                    android:text="SMART BUY"
+                    android:textSize="16dp" />
+
+                <ImageButton
+                    android:id="@+id/imageButton2"
+                    android:layout_width="0dp"
+                    android:layout_height="60dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="1"
+                    android:background="@color/white"
+                    android:onClick="buttonClick7"
+                    android:scaleType="fitCenter"
+                    app:srcCompat="@drawable/home_512_off" />
+
+                <Button
+                    android:id="@+id/imageButton4"
+                    android:layout_width="0dp"
+                    android:layout_height="60dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="2"
+                    android:background="@drawable/round_button"
+                    android:elevation="5dp"
+                    android:text="ADD TO CART"
+                    android:textColor="@color/white"
+                    android:textSize="16dp" />
+
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+    </FrameLayout>
+</android.support.constraint.ConstraintLayout>

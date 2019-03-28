@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/navyblue"
+    android:orientation="vertical"
+    tools:context=".Email">
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="40dp"
+        app:srcCompat="@drawable/pm_logo2" />
+
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="120dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="-35dp"
+        app:srcCompat="@drawable/pm_logo" />
+
+    <EditText
+        android:id="@+id/ed_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="33dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="32dp"
+        android:hint="(Name)"
+        android:textColorHint="@color/white"
+        android:inputType="textPersonName"
+        android:maxLines="1"
+        android:textCursorDrawable="@null"
+        android:backgroundTint="@color/white"
+        android:fontFamily="@font/poppins_regular"
+        android:textColor="@color/white"
+        android:textSize="16dp" />
+
+    <EditText
+        android:id="@+id/ed_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="33dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="32dp"
+        android:backgroundTint="@color/white"
+        android:fontFamily="@font/poppins_regular"
+        android:hint="(Email ID)"
+        android:inputType="textEmailAddress"
+        android:maxLines="1"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:textCursorDrawable="@null"
+        android:textSize="16dp" />
+
+    <EditText
+        android:id="@+id/ed_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="33dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="32dp"
+        android:backgroundTint="@color/white"
+        android:fontFamily="@font/poppins_regular"
+        android:hint="(Password)"
+        android:inputType="textWebPassword"
+        android:maxLines="1"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:textCursorDrawable="@null"
+        android:textSize="16dp" />
+
+    <EditText
+        android:id="@+id/ed_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="33dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="32dp"
+        android:backgroundTint="@color/white"
+        android:fontFamily="@font/poppins_regular"
+        android:hint="(Phone Number)"
+        android:inputType="phone"
+        android:maxLines="1"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:textCursorDrawable="@null"
+        android:textSize="16dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="33dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="32dp"
+        android:backgroundTint="@color/white"
+        android:fontFamily="@font/poppins_regular"
+        android:text="Gender"
+        android:textColor="@color/white"
+        android:textCursorDrawable="@null"
+        android:textSize="16dp" />
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="105dp"
+        android:layout_marginTop="-38dp"
+        android:layout_marginRight="32dp">
+
+        <RadioButton
+            android:id="@+id/radioButton1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="33dp"
+            android:layout_marginTop="12dp"
+            android:layout_marginRight="32dp"
+            android:backgroundTint="@color/white"
+            android:buttonTint="@color/white"
+            android:fontFamily="@font/poppins_regular"
+            android:text="Male"
+            android:textColor="@color/white"
+            android:textCursorDrawable="@null"
+            android:textSize="16dp" />
+
+    <RadioButton
+        android:id="@+id/radioButton2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="33dp"
+        android:layout_marginTop="-4dp"
+        android:layout_marginRight="32dp"
+        android:backgroundTint="@color/white"
+        android:buttonTint="@color/white"
+        android:fontFamily="@font/poppins_regular"
+        android:textColor="@color/white"
+        android:textCursorDrawable="@null"
+        android:textSize="16dp"
+        android:text="Female" />
+
+    <RadioButton
+        android:id="@+id/radioButton3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="33dp"
+        android:layout_marginTop="-4dp"
+        android:layout_marginRight="32dp"
+        android:backgroundTint="@color/white"
+        android:buttonTint="@color/white"
+        android:fontFamily="@font/poppins_regular"
+        android:textColor="@color/white"
+        android:textCursorDrawable="@null"
+        android:textSize="16dp"
+        android:text="Other" />
+
+    </RadioGroup>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="59dp"
+        tools:context=".Email">
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="33dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="32dp"
+            android:onClick="setDate"
+            android:text="@string/date_button_set" />
+
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_below="@+id/button1"
+            android:layout_marginTop="22dp"
+            android:layout_toLeftOf="@+id/button1"
+            android:backgroundTint="@color/white"
+            android:fontFamily="@font/poppins_regular"
+            android:text="@string/date_view_set"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/white"
+            android:textSize="16dp" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView2"
+            android:layout_alignRight="@+id/button1"
+            android:layout_marginTop="22dp"
+            android:backgroundTint="@color/white"
+            android:fontFamily="@font/poppins_regular"
+            android:text="@string/date_selected"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/white"
+            android:textSize="18dp" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="33dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="32dp"
+        android:backgroundTint="@color/white"
+        android:buttonTint="@color/white"
+        android:fontFamily="@font/poppins_regular"
+        android:onClick="buttonClick"
+        android:text="CONTINUE"
+        android:textColor="@color/black"
+        android:textCursorDrawable="@null"
+        android:textSize="20dp" />
+
+
+</LinearLayout>

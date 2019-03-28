@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".Swipe">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipChildren="false"
+        android:clipToPadding="false">
+
+        <ImageButton
+            android:id="@+id/imageButton15"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_marginStart="20dp"
+            android:elevation="5dp"
+            android:padding="5dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/phone_96"
+            android:scaleType="fitCenter" />
+        <TextView
+            android:layout_width="232dp"
+            android:layout_height="100dp"
+            android:layout_marginStart="160dp"
+            android:layout_marginTop="30dp"
+            android:textSize="16dp"
+            android:background="@drawable/grad_swipe"
+            android:elevation="5dp"
+            android:padding="5dp"
+            android:gravity="center"
+            style="@style/Light"
+            android:fontFamily="@font/poppins_regular"
+            android:text="CHOOSE THE SMART PHONE WHICH BEST SUITS YOUR NEEDS!"/>
+
+        <ImageButton
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_marginStart="272dp"
+            android:layout_marginTop="160dp"
+            android:elevation="5dp"
+            android:padding="5dp"
+            android:id="@+id/imageButton18"
+            android:scaleType="fitCenter"
+            android:background="@drawable/premium_96"/>
+
+        <TextView
+            android:layout_width="232dp"
+            android:layout_height="100dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="170dp"
+            android:textSize="16dp"
+            android:elevation="5dp"
+            android:padding="5dp"
+            android:gravity="center"
+            android:background="@drawable/grad_swipe"
+            style="@style/Light"
+            android:fontFamily="@font/poppins_regular"
+            android:text="PREMIUM MEMBERSHIP FOR JUST ₹999 A YEAR!"/>
+
+        <ImageButton
+            android:id="@+id/imageButton17"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="300dp"
+            android:elevation="5dp"
+            android:padding="5dp"
+            android:background="@drawable/read_96"
+            android:scaleType="fitCenter"/>
+
+        <TextView
+            android:layout_width="232dp"
+            android:layout_height="100dp"
+            android:layout_marginStart="160dp"
+            android:layout_marginTop="310dp"
+            android:textSize="16dp"
+            android:elevation="5dp"
+            android:background="@drawable/grad_swipe"
+            android:padding="5dp"
+            android:gravity="center"
+            style="@style/Light"
+            android:fontFamily="@font/poppins_regular"
+            android:text="STAY UP TO DATE WITH OUR DEDICATED ARTICLES SECTION!"/>
+
+        <ImageButton
+            android:id="@+id/imageButton19"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_marginStart="272dp"
+            android:layout_marginTop="440dp"
+            android:elevation="5dp"
+            android:padding="5dp"
+            android:background="@drawable/smartbuy_96"
+            android:scaleType="fitCenter"/>
+
+        <TextView
+            android:layout_width="232dp"
+            android:layout_height="100dp"
+            android:layout_marginStart="20dp"
+            android:elevation="5dp"
+            android:padding="5dp"
+            android:layout_marginTop="450dp"
+            android:textSize="16dp"
+            android:background="@drawable/grad_swipe"
+            android:gravity="center"
+            style="@style/Light"
+            android:fontFamily="@font/poppins_regular"
+            android:text="SMART BUY YOUR DREAM PHONE AT THE LOWEST PRICES!"/>
+
+    </RelativeLayout>
+</FrameLayout>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1075526388221",
+    "firebase_url": "https://rap-developers.firebaseio.com",
+    "project_id": "rap-developers",
+    "storage_bucket": "rap-developers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075526388221:android:03737fd07e6d05b5",
+        "android_client_info": {
+          "package_name": "com.example.rishabh.planetmob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075526388221-7791se72p39tm7bnsb8qgp1qq0qit3af.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rishabh.planetmob",
+            "certificate_hash": "a58d1fc5b7c240df5913151005e2292a32a769fa"
+          }
+        },
+        {
+          "client_id": "1075526388221-hv6j8ajg8q93mgo7fk6h0s6inagjtf4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBExA-Mrw-sTl_LtBhvCgpCIAkYW7MdxmM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075526388221-hv6j8ajg8q93mgo7fk6h0s6inagjtf4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
